@@ -11,15 +11,8 @@ Recommended provisioning methods provided for production are:
 
 [NeIC SDA documentation](https://neic-sda.readthedocs.io).
 
-### OLD version NeIC Sensitive Data Archive
 
-This is a fork of https://github.com/EGA-archive/LocalEGA adapted for NeIC Tryggve2 use cases.
+### Info about old version
 
-![](https://github.com/neicnordic/LocalEGA/workflows/Python%20unit%20tests/badge.svg)
-![](https://github.com/neicnordic/LocalEGA/workflows/Python%20style%20check/badge.svg)
-![](https://github.com/neicnordic/LocalEGA/workflows/Integration%20Tests/badge.svg)
-[![Documentation Status](https://readthedocs.org/projects/neic-sda/badge/?version=latest)](https://neic-sda.readthedocs.io/en/latest/?badge=latest)
-[![Coverage Status](https://coveralls.io/repos/github/neicnordic/LocalEGA/badge.svg?branch=HEAD)](https://coveralls.io/github/neicnordic/LocalEGA?branch=HEAD)
-
-This [code](lega) is written in Python (3.6+).
+This is repo is an initial version NeIC Sensitive Data Archive fork of https://github.com/EGA-archive/LocalEGA adapted for NeIC Tryggve2 use cases. The [code](lega) is written in Python (3.6+).
 
